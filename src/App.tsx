@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Crud react
+         React Crud Operation
         </p>
         <a
           className="App-link"
